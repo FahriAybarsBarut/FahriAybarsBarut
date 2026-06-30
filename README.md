@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/fahriaybarsbarut1853" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://FahriAybarsBarut.github.io/FahriAybarsBarut-web/" target="_blank">
+  <a href="https://fahri-aybars-barut.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
