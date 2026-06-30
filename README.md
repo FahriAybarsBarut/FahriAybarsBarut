@@ -24,7 +24,9 @@
 I am a Computer Engineer with a deep focus on **C++**, **C#**, and **Python**. I build high-performance systems spanning from custom game engines and Unity tools to Physics Simulations and AI/RAG legaltech applications.
 
 - 🛠️ Currently developing **Archura Engine** (a custom modular C++ game engine with ECS).
-- 🎮 Building zero-allocation diagnostic tools and utilities for **Unity**.
+- 📱 Developing low-level **Android & Windows integrations**, including UMDF 2 Virtual HID drivers, AirPrint/AirScan receivers, and reverse engineering Bluetooth protocols.
+- 🌐 Engineering **Network Diagnostics & Optimizers** for ultra-low latency gaming and DPI bypassing.
+- 🎮 Building zero-allocation diagnostic tools and utilities for **Unity** & **VR Head-tracking**.
 - 🧠 Experimenting with **Retrieval-Augmented Generation (RAG)** systems and AI.
 - 🔬 Publishing educational Python physics simulations mapping ionized gas behavior to digital logic.
 
