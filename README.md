@@ -45,6 +45,18 @@ I am a Computer Engineer with a deep focus on **C++**, **C#**, and **Python**. I
 
 ---
 
+### 🏆 Featured Projects & Engineering Highlights
+
+- 🕹️ **[Advanced-3D-Controller](https://github.com/FahriAybarsBarut/Advanced-3D-Controller)** — *Android to PC ultra-low latency 6DOF Space Controller using custom **UMDF 2 Virtual HID drivers** over UDP.*
+- 🎧 **[WinbrePods](https://github.com/FahriAybarsBarut/WinbrePods)** — *Apple AirPods integration for Windows and Android. **Reverse engineered Bluetooth stacks** for noise control and transparency.*
+- 🖨️ **[Archura-Airprint-Receiver](https://github.com/FahriAybarsBarut/Archura-Airprint-Receiver)** — *Zero-install wireless document transfer mimicking **Apple AirPrint/AirScan** with in-memory SSL & mDNS.*
+- 🌐 **[Archura-Network-Optimizer](https://github.com/FahriAybarsBarut/Archura-Network-Optimizer)** — *Windows diagnostics and network optimization core. Low-latency gaming stability, DPI bypassing, and MTU/TCP tuning.*
+- 🥽 **[Galaxy-Buds-Unity-VR-Sim](https://github.com/FahriAybarsBarut/Galaxy-Buds-Unity-VR-Sim)** — *VR headset rotation simulator driven by Galaxy Buds Pro-style quaternion packets over UDP in **Unity**.*
+- ⚙️ **[Archura-Game-Engine-SDL](https://github.com/FahriAybarsBarut/Archura-Game-Engine-SDL)** — *Custom modular **C++ game engine** with OpenGL rendering pipelines and Entity Component System (ECS).*
+- ⚖️ **[AnayasalRAGai](https://github.com/FahriAybarsBarut/AnayasalRAGai)** — *Retrieval-Augmented Generation (RAG) system tailored for precise Turkish Constitution vector search.*
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
