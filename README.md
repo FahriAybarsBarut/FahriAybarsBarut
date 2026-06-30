@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Fahri%20Aybars%20Barut&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Simulation%20%26%20Unity%20Developer&descAlignY=55" alt="Header" />
 </div>
 
-<h1 align="center">Welcome to my GitHub Profile! 👋</h1>
+<h1 align="center">Welcome to my GitHub Profile! </h1>
 
 <p align="center">
   <em>Passionate <b>Software Engineer</b> specializing in <b>Real-time Systems, Game Engines, and VR/XR Simulations</b> based in Ankara.</em>
@@ -19,20 +19,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a Computer Engineer with a deep focus on **C++**, **C#**, and **Python**. I build high-performance systems spanning from custom game engines and Unity tools to Physics Simulations and AI/RAG legaltech applications.
 
-- 🛠️ Currently developing **Archura Engine** (a custom modular C++ game engine with ECS).
-- 📱 Developing low-level **Android & Windows integrations**, including UMDF 2 Virtual HID drivers, AirPrint/AirScan receivers, and reverse engineering Bluetooth protocols.
-- 🌐 Engineering **Network Diagnostics & Optimizers** for ultra-low latency gaming and DPI bypassing.
-- 🎮 Building zero-allocation diagnostic tools and utilities for **Unity** & **VR Head-tracking**.
-- 🧠 Experimenting with **Retrieval-Augmented Generation (RAG)** systems and AI.
-- 🔬 Publishing educational Python physics simulations mapping ionized gas behavior to digital logic.
+- Currently developing **Archura Engine** (a custom modular C++ game engine with ECS).
+- Developing low-level **Android & Windows integrations**, including UMDF 2 Virtual HID drivers, AirPrint/AirScan receivers, and reverse engineering Bluetooth protocols.
+- Engineering **Network Diagnostics & Optimizers** for ultra-low latency gaming and DPI bypassing.
+- Building zero-allocation diagnostic tools and utilities for **Unity** & **VR Head-tracking**.
+- Experimenting with **Retrieval-Augmented Generation (RAG)** systems and AI.
+- Publishing educational Python physics simulations mapping ionized gas behavior to digital logic.
 
 ---
 
-### 💻 Tech Stack & Skills
+### Tech Stack & Skills
 
 #### Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -45,19 +45,19 @@ I am a Computer Engineer with a deep focus on **C++**, **C#**, and **Python**. I
 
 ---
 
-### 🏆 Featured Projects & Engineering Highlights
+### Featured Projects & Engineering Highlights
 
-- 🕹️ **[Advanced-3D-Controller](https://github.com/FahriAybarsBarut/Advanced-3D-Controller)** — *Android to PC ultra-low latency 6DOF Space Controller using custom **UMDF 2 Virtual HID drivers** over UDP.*
-- 🎧 **[WinbrePods](https://github.com/FahriAybarsBarut/WinbrePods)** — *Apple AirPods integration for Windows and Android. **Reverse engineered Bluetooth stacks** for noise control and transparency.*
-- 🖨️ **[Archura-Airprint-Receiver](https://github.com/FahriAybarsBarut/Archura-Airprint-Receiver)** — *Zero-install wireless document transfer mimicking **Apple AirPrint/AirScan** with in-memory SSL & mDNS.*
-- 🌐 **[Archura-Network-Optimizer](https://github.com/FahriAybarsBarut/Archura-Network-Optimizer)** — *Windows diagnostics and network optimization core. Low-latency gaming stability, DPI bypassing, and MTU/TCP tuning.*
-- 🥽 **[Galaxy-Buds-Unity-VR-Sim](https://github.com/FahriAybarsBarut/Galaxy-Buds-Unity-VR-Sim)** — *VR headset rotation simulator driven by Galaxy Buds Pro-style quaternion packets over UDP in **Unity**.*
-- ⚙️ **[Archura-Game-Engine-SDL](https://github.com/FahriAybarsBarut/Archura-Game-Engine-SDL)** — *Custom modular **C++ game engine** with OpenGL rendering pipelines and Entity Component System (ECS).*
-- ⚖️ **[AnayasalRAGai](https://github.com/FahriAybarsBarut/AnayasalRAGai)** — *Retrieval-Augmented Generation (RAG) system tailored for precise Turkish Constitution vector search.*
+- **[Advanced-3D-Controller](https://github.com/FahriAybarsBarut/Advanced-3D-Controller)** — *Android to PC ultra-low latency 6DOF Space Controller using custom **UMDF 2 Virtual HID drivers** over UDP.*
+- **[WinbrePods](https://github.com/FahriAybarsBarut/WinbrePods)** — *Apple AirPods integration for Windows and Android. **Reverse engineered Bluetooth stacks** for noise control and transparency.*
+- **[Archura-Airprint-Receiver](https://github.com/FahriAybarsBarut/Archura-Airprint-Receiver)** — *Zero-install wireless document transfer mimicking **Apple AirPrint/AirScan** with in-memory SSL & mDNS.*
+- **[Archura-Network-Optimizer](https://github.com/FahriAybarsBarut/Archura-Network-Optimizer)** — *Windows diagnostics and network optimization core. Low-latency gaming stability, DPI bypassing, and MTU/TCP tuning.*
+- **[Galaxy-Buds-Unity-VR-Sim](https://github.com/FahriAybarsBarut/Galaxy-Buds-Unity-VR-Sim)** — *VR headset rotation simulator driven by Galaxy Buds Pro-style quaternion packets over UDP in **Unity**.*
+- **[Archura-Game-Engine-SDL](https://github.com/FahriAybarsBarut/Archura-Game-Engine-SDL)** — *Custom modular **C++ game engine** with OpenGL rendering pipelines and Entity Component System (ECS).*
+- **[AnayasalRAGai](https://github.com/FahriAybarsBarut/AnayasalRAGai)** — *Retrieval-Augmented Generation (RAG) system tailored for precise Turkish Constitution vector search.*
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahriAybarsBarut&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
