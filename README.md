@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Fahri%20Aybars%20Barut&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Simulation%20%26%20Unity%20Developer&descAlignY=55" alt="Header" />
-</div>
-
 <h1 align="center">Welcome to my GitHub Profile! </h1>
 
 <p align="center">
